@@ -1,0 +1,10 @@
+day,cities,temperature,windspeed,event
+01-01-2020,junagadh,32,6,Rain
+01-02-2020,junagadh,35,7,Sunny
+01-03-2020,junagadh,28,2,Snow
+01-04-2020,rajkot,24,7,Snow
+01-05-2020,rajkot,32,4,Rain
+01-06-2020,rajkot,31,2,Sunny
+01-09-2020,gandhinagar,58,8,Rain
+01-11-2020,gandhinagar,46,10,Sunny
+01-15-2020,gandhinagar,39,15,Snow
